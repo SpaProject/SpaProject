@@ -1,0 +1,10 @@
+!SESSION 2012-09-08 22:50:24.199 -----------------------------------------------
+eclipse.buildId=I20120608-1400
+java.version=1.7.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ja_JP
+Framework arguments:  -product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2012-09-08 22:51:31.778
+!MESSAGE Failed to load properties file for project 'AndroidSpa'
